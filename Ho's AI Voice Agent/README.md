@@ -361,7 +361,7 @@ Every API Call ──►  Bearer Token Header  ──►  JWT Decoded  ──►
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hovarthan_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hovarthan-ai)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-hovarthan21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hovarthan04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hovarthan04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hovarthan04@gmail.com)
 &nbsp;
 <br/>
 
